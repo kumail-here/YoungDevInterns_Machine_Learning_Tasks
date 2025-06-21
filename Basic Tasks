@@ -1,0 +1,7 @@
+Basic_Tasks/
+├── Task_1_Simple_Linear_Regression/
+│   └── linear_regression.py
+├── Task_2_Decision_Tree/
+│   └── decision_tree.py
+└── Task_3_Scatter_Plot/
+    └── scatter_plot.py
