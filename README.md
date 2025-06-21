@@ -1,4 +1,4 @@
-# YoungDevInterns_Machine_Learning_Tasks
+# YoungDevInterns Machine Learning Tasks
 
 🚀 This repository contains all the machine learning tasks completed during my 1-month remote internship with **YoungDev Interns**.
 
